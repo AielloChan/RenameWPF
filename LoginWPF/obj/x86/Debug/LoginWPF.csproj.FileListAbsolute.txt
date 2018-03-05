@@ -1,0 +1,33 @@
+c:\users\aiello\documents\visual studio 2010\Projects\LoginWPF\LoginWPF\bin\Debug\LoginWPF.exe
+c:\users\aiello\documents\visual studio 2010\Projects\LoginWPF\LoginWPF\bin\Debug\LoginWPF.pdb
+c:\users\aiello\documents\visual studio 2010\Projects\LoginWPF\LoginWPF\obj\x86\Debug\LoginWindow.baml
+c:\users\aiello\documents\visual studio 2010\Projects\LoginWPF\LoginWPF\obj\x86\Debug\LoginWindow.g.cs
+c:\users\aiello\documents\visual studio 2010\Projects\LoginWPF\LoginWPF\obj\x86\Debug\App.g.cs
+c:\users\aiello\documents\visual studio 2010\Projects\LoginWPF\LoginWPF\obj\x86\Debug\LoginWPF_MarkupCompile.cache
+c:\users\aiello\documents\visual studio 2010\Projects\LoginWPF\LoginWPF\obj\x86\Debug\LoginWPF.g.resources
+c:\users\aiello\documents\visual studio 2010\Projects\LoginWPF\LoginWPF\obj\x86\Debug\LoginWPF.Properties.Resources.resources
+c:\users\aiello\documents\visual studio 2010\Projects\LoginWPF\LoginWPF\obj\x86\Debug\LoginWPF.csproj.GenerateResource.Cache
+c:\users\aiello\documents\visual studio 2010\Projects\LoginWPF\LoginWPF\obj\x86\Debug\LoginWPF.exe
+c:\users\aiello\documents\visual studio 2010\Projects\LoginWPF\LoginWPF\obj\x86\Debug\LoginWPF.pdb
+C:\Users\Aiello\Documents\Visual Studio 2010\Projects\批量改名 WPF\LoginWPF\obj\x86\Debug\LoginWPF.exe
+C:\Users\Aiello\Documents\Visual Studio 2010\Projects\批量改名 WPF\LoginWPF\obj\x86\Debug\LoginWPF.pdb
+C:\Users\Aiello\Documents\Visual Studio 2010\Projects\批量改名 WPF\LoginWPF\bin\Debug\LoginWPF.exe
+C:\Users\Aiello\Documents\Visual Studio 2010\Projects\批量改名 WPF\LoginWPF\bin\Debug\LoginWPF.pdb
+C:\Users\Aiello\Documents\Visual Studio 2010\Projects\批量改名 WPF\LoginWPF\obj\x86\Debug\LoginWindow.baml
+C:\Users\Aiello\Documents\Visual Studio 2010\Projects\批量改名 WPF\LoginWPF\obj\x86\Debug\LoginWindow.g.cs
+C:\Users\Aiello\Documents\Visual Studio 2010\Projects\批量改名 WPF\LoginWPF\obj\x86\Debug\App.g.cs
+C:\Users\Aiello\Documents\Visual Studio 2010\Projects\批量改名 WPF\LoginWPF\obj\x86\Debug\LoginWPF_MarkupCompile.cache
+C:\Users\Aiello\Documents\Visual Studio 2010\Projects\批量改名 WPF\LoginWPF\obj\x86\Debug\LoginWPF.g.resources
+C:\Users\Aiello\Documents\Visual Studio 2010\Projects\批量改名 WPF\LoginWPF\obj\x86\Debug\LoginWPF.Properties.Resources.resources
+C:\Users\Aiello\Documents\Visual Studio 2010\Projects\批量改名 WPF\LoginWPF\obj\x86\Debug\LoginWPF.csproj.GenerateResource.Cache
+F:\文档\学习\空间数据库编程作业\批量改名 WPF\LoginWPF\obj\x86\Debug\LoginWPF.exe
+F:\文档\学习\空间数据库编程作业\批量改名 WPF\LoginWPF\obj\x86\Debug\LoginWPF.pdb
+F:\文档\学习\空间数据库编程作业\批量改名 WPF\LoginWPF\bin\Debug\LoginWPF.exe
+F:\文档\学习\空间数据库编程作业\批量改名 WPF\LoginWPF\bin\Debug\LoginWPF.pdb
+F:\文档\学习\空间数据库编程作业\批量改名 WPF\LoginWPF\obj\x86\Debug\LoginWindow.baml
+F:\文档\学习\空间数据库编程作业\批量改名 WPF\LoginWPF\obj\x86\Debug\LoginWindow.g.cs
+F:\文档\学习\空间数据库编程作业\批量改名 WPF\LoginWPF\obj\x86\Debug\App.g.cs
+F:\文档\学习\空间数据库编程作业\批量改名 WPF\LoginWPF\obj\x86\Debug\LoginWPF_MarkupCompile.cache
+F:\文档\学习\空间数据库编程作业\批量改名 WPF\LoginWPF\obj\x86\Debug\LoginWPF.g.resources
+F:\文档\学习\空间数据库编程作业\批量改名 WPF\LoginWPF\obj\x86\Debug\LoginWPF.Properties.Resources.resources
+F:\文档\学习\空间数据库编程作业\批量改名 WPF\LoginWPF\obj\x86\Debug\LoginWPF.csproj.GenerateResource.Cache
